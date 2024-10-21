@@ -51,7 +51,7 @@
 * 인증 방식: 이슈에 댓글로 인증
 
 2. 문제 선정
-* 프로그래머스 사이트의 코딩 테스트 기출 - 한 번의 테스트 (예: kakao 2024 internship test)를 한 주 동안 진행
+* [프로그래머스 사이트의 코딩 테스트 기출](https://school.programmers.co.kr/learn/challenges?order=recent&languages=swift&page=1) - 한 번의 테스트를 한 주 동안 진행 (ex. `2024 KAKAO INTERNSHIP`)
 * 레벨 1 문제는 기본 포함이며, 문제 카운트에 포함되지 않음
 
 3. 동기 부여
